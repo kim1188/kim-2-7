@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ko">
     <head>
         <title>2학년 7반 시간표</title>

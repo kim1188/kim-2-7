@@ -1,3 +1,4 @@
+아직 미완성
 <html lang="ko">
     <head>
         <title>2학년 7반 시간표</title>
@@ -39,42 +40,42 @@
         </script></p>
         <hr>
         <h3>월요일</h3>
-            <a href="https://zoom.us/j/6860189588?pwd=WnBhM3k4ZzB4Z0I0N0hCWlZQSVcrUT09">영어1(박보라)</a><!--영어1(박보라 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/972803917?pwd=enVxTGsvZmhDYlpKVExKcjhVaytGdz09">생물1</a><!--생물1 줌 수업-->
-            <a href="https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">물리1</a><!--물리1 줌 수업-->
-            <a href="https://us04web.zoom.us/j/6092519507?pwd=dVdaRmZKZUppbE5KTUxuejZvaHBJQT09">문학(장준영)</a><!--문학(장준영 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/9580229065?pwd=WW9zNnZpVGsxNVNiTlMxN0hUUHlmQT09">미술(이지수)</a><!--미술창작(이지수 쌤 줌 수업-->
-            <a href="https://us02web.zoom.us/j/9683140851?pwd=ZlBMdFpmTlZBNW05UjNyZVczYythdz09">화학1(이경민)</a><!--화학1(이경민 쌤) 줌 수업-->
-            <a href="https://zoom.us/j/5352590312?pwd=YVNHRms1UUF0cmZnZGxTNnhnR2paUT09">진로(강금희)</a><!--진로(강금희 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1(박보라)</a><!--영어1(박보라 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생물1</a><!--생물1 줌 수업-->
+            <a href="https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리1</a><!--물리1 줌 수업-->
+            <a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">문학(장준영)</a><!--문학(장준영 쌤) 줌 수업-->
+            <a href="">미술(이지수)</a><!--미술창작(이지수 쌤 줌 수업-->
+            <a href="https://us02web.zoom.us/j/4501224672?pwd=U0k2RW5MN0s0WXMxd2JvSWFOdkNXQT09">화학1(이경민)</a><!--화학1(이경민 쌤) 줌 수업-->
+            <a href="">진로(강금희)</a><!--진로(강금희 쌤) 줌 수업-->
         <h3>화요일</h3>
-            <a href="https://us02web.zoom.us/j/9580229065?pwd=WW9zNnZpVGsxNVNiTlMxN0hUUHlmQT09">문학(박신영)</a><!--문학(박신영 쌤) 줌 수업-->
-            <a href="https://zoom.us/j/4716194881?pwd=WnFJamNKZTVqNXBrbTB6TGlhRWNHUT09">기하(김병준)</a><!--기하(김병준 쌤) 줌 수업-->
-            <a href="https://hoc36.ebssw.kr/specialcolor1/hmpg/hmpgAlctcrListView.do?menuSn=384941">수학1(오혜미)</a><!--수학1(오혜미 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/3309633175?pwd=ajh5STV4NlNHemNDTjhWbms2SXFqdz09">체육</a><!--체육 줌 수업-->
-            <a href="https://us02web.zoom.us/j/9683140851?pwd=ZlBMdFpmTlZBNW05UjNyZVczYythdz09">영어1(조영곤)</a><!--영어1(조영곤 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/972803917?pwd=enVxTGsvZmhDYlpKVExKcjhVaytGdz09">미술(황현경)</a><!--미술(황현경 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/2295238663?pwd=WmNIUElNSWRXRUxnZmFqZFF5cVdPZz09">교양(이승영)</a><!--과학교양(이승영 쌤) 줌 수업-->
+            <a href="">문학(박신영)</a><!--문학(박신영 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09">기하(김병준)</a><!--기하(김병준 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1(오혜미)</a><!--수학1(오혜미 쌤) 줌 수업-->
+            <a href="https://us04web.zoom.us/j/6231503832?pwd=WmJCeFA1K3Q1emloMzNoZ3MwaEVnQT09">체육</a><!--체육 줌 수업-->
+            <a href="https://us02web.zoom.us/j/2669056200?pwd=Q3JOQUprR2c0bzRzVkptdmdXTGs4QT09">영어1(조영곤)</a><!--영어1(조영곤 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/9167725349?pwd=TW1SdXZSS1p6K2VwZ0lTSFZNY294dz09">미술(황현경)</a><!--미술(황현경 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">교양(이승영)</a><!--과학교양(이승영 쌤) 줌 수업-->
         <h3>수요일</h3>
-            <a href="https://us02web.zoom.us/j/3309633175?pwd=ajh5STV4NlNHemNDTjhWbms2SXFqdz09">기하(신지현)</a><!--기하(신지현 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">##########</a><!--########### 줌 수업-->
-            <a href="https://us02web.zoom.us/j/9580229065?pwd=WW9zNnZpVGsxNVNiTlMxN0hUUHlmQT09">문학(장준영)</a><!--문학(장준영 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/2295238663?pwd=WmNIUElNSWRXRUxnZmFqZFF5cVdPZz09">교양(백승혁)</a><!--교양(백승혁 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/2978909392?pwd=NkFUNEVOemdmdUF6MktsOElVZmltUT09">수학1(오혜미)</a><!--수학1(오혜미 쌤) 줌 수업-->
-            <a href="https://us04web.zoom.us/j/6092519507?pwd=dVdaRmZKZUppbE5KTUxuejZvaHBJQT09">화학1(이경민)</a><!--화학1(이경민 쌤) 줌 수업-->
-            <a href="https://zoom.us/j/4716194881?pwd=WnFJamNKZTVqNXBrbTB6TGlhRWNHUT09">지학1(이승영)</a><!--지학1(이승영 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/6620251058?pwd=c21Kb2tBdEkyS1JjNnZLWkIvLzBrZz09">기하(신지현)</a><!--기하(신지현 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/5980025567?pwd=KzVtSm43aTBtN0hpellzd09QcVdYUT09">진로(조현)</a><!--진로(조현 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">문학(장준영)</a><!--문학(장준영 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">교양(백승혁)</a><!--교양(백승혁 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1(오혜미)</a><!--수학1(오혜미 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/4501224672?pwd=U0k2RW5MN0s0WXMxd2JvSWFOdkNXQT09">화학1(이경민)</a><!--화학1(이경민 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">지학1(이승영)</a><!--지학1(이승영 쌤) 줌 수업-->
         <h3>목요일</h3>
-            <a href="https://zoom.us/j/4716194881?pwd=WnFJamNKZTVqNXBrbTB6TGlhRWNHUT09">수학1(오혜미)</a><!--수학1(오혜미 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/9683140851?pwd=ZlBMdFpmTlZBNW05UjNyZVczYythdz09">물리1</a><!--물리1 줌 수업-->
-            <a href="https://us02web.zoom.us/j/2295238663?pwd=WmNIUElNSWRXRUxnZmFqZFF5cVdPZz09">지학1(이승영)</a><!--지학1(이승영 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/9580229065?pwd=WW9zNnZpVGsxNVNiTlMxN0hUUHlmQT09">기하(김병준)</a><!--기하(김병준 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/972803917?pwd=enVxTGsvZmhDYlpKVExKcjhVaytGdz09">영어1(조영곤)</a><!--영어1(조영곤 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/7317018056?pwd=KytteHdEV29CVzMxU0dYTUpTamlYdz09 ">특색(박보라)</a><!--특색(박보라 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/3309633175?pwd=ajh5STV4NlNHemNDTjhWbms2SXFqdz09">생물1</a><!--생물1 줌 수업-->
+            <a href="https://us02web.zoom.us/j/7029964982?pwd=VE83Z25QazYwVE5CZGlZV0xQdFNiZz09">수학1(오혜미)</a><!--수학1(오혜미 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/4569059741?pwd=a3Bvc3NXRS80ajMzN2VMajZVUHpPZz09">물리1</a><!--물리1 줌 수업-->
+            <a href="https://us02web.zoom.us/j/5655603297?pwd=Sjk3UnhLODVqdVEwTXJRZk5qbXNGdz09">지학1(이승영)</a><!--지학1(이승영 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/7412490253?pwd=dS9lQVlkazFsaEQ2UFR4cCtxcUxXdz09">기하(김병준)</a><!--기하(김병준 쌤) 줌 수업-->
+            <a href="https://us02web.zoom.us/j/2669056200?pwd=Q3JOQUprR2c0bzRzVkptdmdXTGs4QT09">영어1(조영곤)</a><!--영어1(조영곤 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">특색(박보라)</a><!--특색(박보라 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">생물1</a><!--생물1 줌 수업-->
         <h3>금요일</h3>
-            <a href="https://us02web.zoom.us/j/9580229065?pwd=WW9zNnZpVGsxNVNiTlMxN0hUUHlmQT09">수학1(박시영)</a><!--수학1(박시영 쌤) 줌 수업-->
-            <a href="https://zoom.us/j/6117180017?pwd=QTJnNUF3SytDU0RVL1hrRCtqMzVGdz09">문학(장준영)</a><!--문학(장준영 쌤) 줌 수업-->
-            <a href="https://zoom.us/j/6860189588?pwd=WnBhM3k4ZzB4Z0I0N0hCWlZQSVcrUT09">화학1(김양현)</a><!--화학1(김양현 쌤) 줌 수업-->
-            <a href="https://us02web.zoom.us/j/2978909392?pwd=NkFUNEVOemdmdUF6MktsOElVZmltUT09">영어1(박보라)</a><!--영어1(박보라 쌤) 줌 수업-->
+            <a href="">수학1(박시영)</a><!--수학1(박시영 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/6574050599?pwd=OHYxdS9PWUdEaS91Y2h1TXpOZXh6Zz09">문학(장준영)</a><!--문학(장준영 쌤) 줌 수업-->
+            <a href="">화학1(김양현)</a><!--화학1(김양현 쌤) 줌 수업-->
+            <a href="https://zoom.us/j/5104395898?pwd=ci9ncHpRTkV6amtvTHVSYzhNK043QT09">영어1(박보라)</a><!--영어1(박보라 쌤) 줌 수업-->
             <br><br><a href="https://hoc36.ebssw.kr/hsca1/hmpg/hmpgAlctcrListView.do?menuSn=383002">창체온클</a><!--창체 수업-->   
             <a href="https://hoc36.ebssw.kr/career1953/hmpg/hmpgAlctcrListView.do?menuSn=382817">진로온클</a><!--진로 온클-->  
             <br><br>
